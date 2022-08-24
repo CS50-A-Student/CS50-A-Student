@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CS50-A-Student
-- 👀 I’m interested in Harry Potter, CS, reading and art.
+- 👀 I’m interested in Harry Potter, CS, reading languages and art.
 - 🌱 I’m currently learning SQL and ML.
 - 💞️ I’m looking to collaborate on stunning projects with other programmers that are eager to create something that can truelly change the world.
 - 📫 How to reach me | Email: codignactivist@gmail.com  
